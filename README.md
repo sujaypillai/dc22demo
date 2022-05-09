@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# dc22demo
+# DockerCon22 Demo
 =======
 # Running containers locally
 ```
@@ -109,5 +108,3 @@ Tag the locally developed image to in the form `aws_account_id.dkr.ecr.region.am
 
 ### Tear down the cluster created above 
 ```docker compose down```
-
->>>>>>> 37b798805b64effd51cc5342e2ab21db829b3737
