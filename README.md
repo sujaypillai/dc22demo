@@ -1,5 +1,5 @@
 # DockerCon22 Demo
-=======
+
 # Running containers locally
 ```
 docker compose up
