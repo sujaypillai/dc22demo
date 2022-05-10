@@ -37,11 +37,6 @@ docker compose up
 
 # Amazon ECS deployment
 
-### To run locally using `docker compose`
-```
-docker compose up
-```
-
 ### Create AWS Context
 ```
 docker context create ecs awsdockercon22
